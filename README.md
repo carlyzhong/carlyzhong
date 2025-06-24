@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 
-# 🌿 Carly Zhong | Becoming a Software Developer with passion🌟
+# 🌿 Carly Zhong 🌟
 
 Former Accountant transitioning into Software Development, my core motivation is to build applications that genuinely simplify and improve people's lives.
 
