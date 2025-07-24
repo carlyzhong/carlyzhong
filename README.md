@@ -2,6 +2,8 @@
 
 # 🌿 Carly Zhong 🌟
 
+Check out my new [portfolio website](https://carlyzhong.netlify.app/)!
+
 Former Accountant transitioning into Software Development, my core motivation is to build applications that genuinely simplify and improve people's lives.
 
 Beyond tech, I'm an indoor plant enthusiast and a proud dog mum. 🪴🐾
@@ -11,7 +13,6 @@ JavaScript · TypeScript · Node.js · Express · PostgreSQL · HTML · CSS · G
 
 🌱 **Currently learning:**  
 C# · .NET · Python
-
 
 📩 **Let's Connect!**  
 📧 [Email Me](zhongyjcarly@gmail.com)  
