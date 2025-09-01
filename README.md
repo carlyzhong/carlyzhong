@@ -11,9 +11,6 @@ Beyond tech, I'm an indoor plant enthusiast and a proud dog mum. 🪴🐾
 🔧 **Tech Stack:**  
 JavaScript · TypeScript · Node.js · Express · PostgreSQL · HTML · CSS · Git · Jest · Supabase · Render · Next.js · React · SQL
 
-🌱 **Currently learning:**  
-C# · .NET · Python
-
 📩 **Let's Connect!**  
 📧 [Email Me](zhongyjcarly@gmail.com)  
 📘 [Linkedin](https://www.linkedin.com/in/carlyzhong/)
