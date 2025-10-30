@@ -21,3 +21,5 @@ C# · .NET · Python
 📍 Manchester, UK
 
 ---
+
+![Codewars](https://www.codewars.com/users/carlyzhong/badges/large)
